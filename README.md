@@ -1,8 +1,10 @@
 # Exercicios
-
+<div>
 # AtividadeUM
 
-Imagina-se que você é um dos programadores responsáveis pela construção de app de vendas para uma determinada empresa X que vende em atacado. Uma das estratégias de vendas dessa empresa X é dar desconto maiores por unidade conforme a tabela abaixo:
+Imagina-se que você é um dos programadores responsáveis pela construção de app de vendas para uma determinada empresa X que vende em atacado.
+Uma das estratégias de vendas dessa empresa X é dar desconto maiores por unidade conforme a tabela abaixo:
+
 Quantidades	Desconto
 Até 9	0% na unidade
 Entre 10 e 99	5% na unidade
@@ -17,3 +19,4 @@ Elabore um programa em Python que:
 6.	Colocar um exemplo de SAIDA DE CONSOLE de compra de mais de 10 und. (para mostrar que o desconto foi aplicado)
 
 https://github.com/AdrianoPno/Exercicios/blob/main/atividadeUm.py
+</div>
