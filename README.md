@@ -20,6 +20,7 @@ Elabore um programa em Python que:
 
 https://github.com/AdrianoPno/Exercicios/blob/main/atividadeUm.py
 </div>
+
 <div>
 # AtividadeDois
 
